@@ -1,7 +1,7 @@
 ![logo_40](https://github.com/Santissmh/UniMaker-1.S-DX/assets/147998077/ae0ace86-dfcf-4600-a84c-aaae684ed470)
 
 # Description
-  A improvised mod for UniMaker (1.2.3) that tries to implement some features folowing the versions: 1.1.0, 1.S, 2.0.0.
+  A improvised mod for UniMaker (1.2.3) that tries to implement some features following the versions: 1.1.0, 1.S, 2.0.0.
   Featuring over 100 new resources with some improvements.
 
 # Download
